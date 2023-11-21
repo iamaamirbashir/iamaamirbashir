@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>
 ### Hello! 👋<br><br>I'm AAMIR BASHIR.<br><br>**🚀 Quick Overview:**<br>- 💻 Proficient in: JAVA, C, C++, PYTHON<br>- 🌐 Web Technologies: HTML, CSS, JavaScript, MySQL<br>- 🧠 Familiar with: Shell Scripting<br>- 🛠 Tools: Git, Linux OS, Windows OS, MS Office, VS Code, Azure, Canva<br><br><br>**🌐 Connect with Me:**<br>- GitHub: [github.com/iamaamirbashir](https://github.com/iamaamirbashir)<br>- LinkedIn: [linkedin.com/in/iamaamirbashir](https://www.linkedin.com/in/iamaamirbashir)<br><br>Let's connect and collaborate on exciting projects! 🚀<br>
 
