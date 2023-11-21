@@ -1,34 +1,18 @@
----
-# Welcome To My GitHub Profile!
+# 💫 About Me:
+### Hello! 👋<br><br>I'm AAMIR BASHIR.<br><br>**🚀 Quick Overview:**<br>- 💻 Proficient in: JAVA, C, C++, PYTHON<br>- 🌐 Web Technologies: HTML, CSS, JavaScript, MySQL<br>- 🧠 Familiar with: Shell Scripting<br>- 🛠 Tools: Git, Linux OS, Windows OS, MS Office, VS Code, Azure, Canva<br><br><br>**🌐 Connect with Me:**<br>- GitHub: [github.com/iamaamirbashir](https://github.com/iamaamirbashir)<br>- LinkedIn: [linkedin.com/in/iamaamirbashir](https://www.linkedin.com/in/iamaamirbashir)<br><br>Let's connect and collaborate on exciting projects! 🚀<br>
 
-### Hello! My name is ` AAMIR BASHIR `, and I am a developer with experience in `HTML`, `CSS`, `SQL`, `C++`, `Java`, and `Python` . I am also experienced in `Linux` and `shell scripting` . Currently, I am learning front-end `Android development` and am always looking to expand my skill set.
----
-# Skills:
-<h3>
-  
-  - `Problem-solving`
-  - `Leadership`
-  - `Data structures and algorithms`
-  - `Front-end development (HTML & CSS)`
-  - `Android app development`
-  - `SQL database management`
-  - `Object-oriented programming principles`
-  - `Git & GitHub`
-  - `Active participant in online coding communities and competitions`
-  
-  </h3>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamaamirbashir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaamirbashir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamaamirbashir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamaamirbashir) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamaamirbashir &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamaamirbashir &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaamirbashir &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-# Connect with me:
+[![](https://visitcount.itsvg.in/api?id=iamaamirbashir &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://user-images.githubusercontent.com/64484775/219952685-17a180fa-93cf-420f-92d7-7e7a631d9bce.png" width="40" height="40" /><h2> <a href="https://linkedin.com/in/iamaamirbashir/" target="_blank"> iamaamirbashir </a> </h2>
-<img src="https://user-images.githubusercontent.com/64484775/219952699-ca4edc09-1395-4a9a-bad2-632b2bffe9c8.png" width="40" height="40"/><h2> <a href="https://twitter.com/iamaamirbashir/" target="_blank"> iamaamirbashir </a> </h2>
-<img src="https://user-images.githubusercontent.com/64484775/219952776-dd31ff46-d36d-45bb-b816-3fcb31859936.png" width="40" height="40"/><h2> <a href="https://instagram.com/iamaamirbashir/" target="_blank"> iamaamirbashir </a> </h2>
-<img src="https://user-images.githubusercontent.com/64484775/219952705-c3b343cd-312d-4799-b251-0da719b6a189.png" width="40" height="40"/><h2> <a href="https://github.com/iamaamirbashir/" target="_blank"> iamaamirbashir </a> </h2>
-<img src="https://user-images.githubusercontent.com/64484775/219952713-5aa47d94-9b7d-40e7-b485-232912cf6e48.png" width="40" height="40"/><h2> <a href="mailto: aamirbashi55@gmail.com"> Aamir Bashir </a> </h2>
-
-
-
---- 
-## Feel free to check out my repositories and contribute to any open-source projects that interest you. Don't hesitate to reach out if you have any questions or want to collaborate on a project!
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
