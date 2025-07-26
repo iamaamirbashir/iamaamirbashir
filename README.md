@@ -1,4 +1,4 @@
-# 💫 About Me:<br>
+# About Me:<br>
 ### Hello! 👋<br><br>I'm **Aamir Bashir**, a passionate and goal-driven individual currently pursuing an **M.Tech in Computer Science and Technology** from **Jawaharlal Nehru University (JNU), Delhi**.<br><br>
 
 **🚀 Quick Overview:**<br>
